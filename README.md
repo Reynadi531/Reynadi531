@@ -8,4 +8,7 @@ Love code and engineer stuff, especially fullstack development
 * Make everything with ❤
 
 Enjoy all of work and let's work together.<br>
-Best regards, Rey.
+Best regard, Rey.
+
+[![Reynadi531's github stats](https://github-readme-stats.vercel.app/api?username=Reynadi531)](https://github.com/anuraghazra/github-readme-stat)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynadi531)](https://github.com/anuraghazra/github-readme-stats)
