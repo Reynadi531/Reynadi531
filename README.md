@@ -1,6 +1,6 @@
 ## Hi there, i'm Reynadi 👋
 
-> _**Normal boys, that proud being indonesian, dreaming become a professional software developer. Doing many fun side project and learning loud of new techonology especially in fullsatack development environment. This year i'm 15, so yeah. Nice to meet you and more awsome if we could colab some days. Have a nice day everyone**_
+> _**Normal boys, that proud being indonesian, dreaming become a professional software developer. Doing many fun side project and learning loud of new techonology especially in fullsatack development environment. I'm 15, so yeah. Nice to meet you and more awsome if we could colab some days. Have a nice day everyone**_
 
 ### Tools that i use:
 
