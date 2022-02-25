@@ -1,10 +1,10 @@
 ## Hi there, i'm Reynadi 👋
 
-> _**Normal boys, that proud being indonesian, dreaming become a professional software developer. Doing many fun side project and learning a lot of new technology especially in fullstack development environment. I'm 15, so yeah. Nice to meet you and more awesome if we could colab some days. Have a nice day everyone**_
+Fullstack developer from Indonesia, currently majoring in highscool an learning a lot of new tech related stuff at age of 15. Can't wait to work together
 
 ### Tools that i use:
 
-<div align='center'>
+<div>
 <img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -23,7 +23,6 @@
 <br>
   </div>
 
-----
 ### Some stats maybe
 
 <div align='center'>
