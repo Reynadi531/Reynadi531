@@ -1,6 +1,6 @@
 ## Hi there, i'm Reynadi 👋
 
-Fullstack developer from Indonesia, currently majoring in highscool an learning a lot of new tech related stuff at age of 15. Can't wait to work together
+Fullstack developer from Indonesia, currently majoring in highscool an learning a lot of new tech related stuff. Can't wait to work together
 
 ### Tools that i use:
 
