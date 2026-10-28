@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-### [Personal Website](https://reynadi.com) | [LinkedIn](https://linkedin.com/in/reynadiap) | [Email](mailto:rey@reynadi.com)
+### [Personal Website](https://reynadi.id) | [LinkedIn](https://linkedin.com/in/reynadiap) | [Email](mailto:rey@reynadi.id)
 
 Hey there, I'm Rey! (That's Reynadi Andreas Priesley for the record). I'm a software engineer who wears many hats – building, automating, and making the cloud work its magic. In my free time, I also make magic on the web.
 
